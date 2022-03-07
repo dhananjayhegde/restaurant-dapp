@@ -1,0 +1,19 @@
+.menu {
+    list-style: none;
+}
+
+.menuItem{
+    padding: 1em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: left;
+    color: hsla(0, 100%, 100%, 0.9);
+    background-color: hsla(60, 76%, 11%, 0.7);
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.menuItem> span {
+    float: right;
+    margin-left: 1em;
+}

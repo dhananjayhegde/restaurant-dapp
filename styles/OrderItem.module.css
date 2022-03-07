@@ -1,0 +1,15 @@
+.orderItem{
+    padding: 1em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: left;
+    color: hsla(0, 100%, 100%, 0.9);
+    background-color: hsla(338, 59%, 24%, 0.7);
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.orderItem > span {
+    float: right;
+    margin-left: 1em;
+}
